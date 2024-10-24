@@ -1,0 +1,16 @@
+total 55624
+drwxr-xr-x@ 15 hadikaddoura  staff       480 Oct 24 12:03 .
+drwx------@  6 hadikaddoura  staff       192 Oct 24 11:31 ..
+drwxr-xr-x  13 hadikaddoura  staff       416 Oct 24 12:03 .git
+drwxr-xr-x@ 10 hadikaddoura  staff       320 Sep 24 23:26 Assets
+drwxr-xr-x  48 hadikaddoura  staff      1536 Oct 24 11:48 Library
+drwxr-xr-x   6 hadikaddoura  staff       192 Oct 24 11:28 Logs
+drwxr-xr-x@  4 hadikaddoura  staff       128 Sep 27 22:18 Packages
+drwxr-xr-x@ 33 hadikaddoura  staff      1056 Oct 24 11:29 ProjectSettings
+-rw-r--r--   1 hadikaddoura  staff        27 Oct 24 11:56 README.md
+drwxr-xr-x@ 61 hadikaddoura  staff      1952 Oct 24 11:49 Temp
+drwxr-xr-x   6 hadikaddoura  staff       192 Oct 23 16:08 UserSettings
+drwxr-xr-x@  8 hadikaddoura  staff       256 Oct 24 11:38 WebGL Builds
+-rw-r--r--@  1 hadikaddoura  staff  28467243 Oct 24 11:40 connectwebgl.zip
+-rw-r--r--   1 hadikaddoura  staff         0 Oct 24 12:04 log.log
+-rw-r--r--@  1 hadikaddoura  staff        36 Oct 24 11:40 webgl_sharing
